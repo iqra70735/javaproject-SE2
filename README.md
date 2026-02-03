@@ -1,33 +1,33 @@
-📘 Learnify – Learning Management System (Java)
+ Learnify – Learning Management System (Java)
 
 Learnify is a **desktop-based Learning Management System (LMS)** built using **Java, Swing, and Object-Oriented Programming (OOP)** concepts.  
 It supports **Student, Teacher, and Admin roles**, offering authentication, course management, assessments, and certificates.
 
 ---
 
-🚀 Features
+Features
 
-👩‍🎓 Student
+Student
 - Register & login
 - Enroll / drop courses
 - View enrolled courses
 - Receive grades
 - Generate certificates
 
-👨‍🏫 Teacher
+Teacher
 - Login & manage assigned courses
 - Publish quizzes & assignments
 - Grade students
 - View student performance
 
-🛠 Admin
+Admin
 - Manage users
 - Manage courses
 - System-level control
 
 ---
 
-🧠 OOP Concepts Used
+OOP Concepts Used
 
 - Encapsulation
 - Inheritance
@@ -41,7 +41,7 @@ It supports **Student, Teacher, and Admin roles**, offering authentication, cour
 
 ---
 
-🖥 Technologies Used
+Technologies Used
 
 - Java (Core Java)
 - Java Swing (GUI)
@@ -50,7 +50,7 @@ It supports **Student, Teacher, and Admin roles**, offering authentication, cour
 - MVC-style structure
 
 ---
-📂 Project Structure
+Project Structure
 
 ```text
 learnify/
