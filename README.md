@@ -1,4 +1,4 @@
- Learnify – Learning Management System (Java)
+ **Learnify – Learning Management System (Java)**
 
 Learnify is a **desktop-based Learning Management System (LMS)** built using **Java, Swing, and Object-Oriented Programming (OOP)** concepts.  
 It supports **Student, Teacher, and Admin roles**, offering authentication, course management, assessments, and certificates.
