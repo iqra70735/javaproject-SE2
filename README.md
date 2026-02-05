@@ -1,58 +1,47 @@
- **Learnify – Learning Management System (Java)**
+# Learnify – Learning Management System
 
-Learnify is a **desktop-based Learning Management System (LMS)** built using **Java, Swing, and Object-Oriented Programming (OOP)** concepts.  
-It supports **Student, Teacher, and Admin roles**, offering authentication, course management, assessments, and certificates.
-
----
-
-Features
-
-Student
-- Register & login
-- Enroll / drop courses
-- View enrolled courses
-- Receive grades
-- Generate certificates
-
-Teacher
-- Login & manage assigned courses
-- Publish quizzes & assignments
-- Grade students
-- View student performance
-
-Admin
-- Manage users
-- Manage courses
-- System-level control
+Learnify is a desktop-based Learning Management System (LMS) developed using Core Java and Swing. It follows object-oriented design principles and supports three user roles: Student, Teacher, and Admin. The system manages authentication, courses, assessments, grading, and certificate generation.
 
 ---
 
-OOP Concepts Used
+## Features
 
-- Encapsulation
-- Inheritance
-- Abstraction
-- Polymorphism
-- Interfaces
-- Singleton Pattern
-- File Handling
-- Serialization
-- Exception Handling
+**Student**
+
+* Register and log in
+* Enroll in and drop courses
+* View enrolled courses
+* Receive grades
+* Generate certificates
+
+**Teacher**
+
+* Manage assigned courses
+* Publish quizzes and assignments
+* Grade students
+* View student performance
+
+**Admin**
+
+* Manage users
+* Manage courses
+* Control overall system operations
 
 ---
 
-Technologies Used
+## Technical Highlights
 
-- Java (Core Java)
-- Java Swing (GUI)
-- File Handling (`ObjectInputStream`, `ObjectOutputStream`)
-- SHA-256 Password Hashing
-- MVC-style structure
+* Built using Core Java and Java Swing
+* Implements key OOP concepts: encapsulation, inheritance, abstraction, polymorphism, and interfaces
+* Uses file handling and serialization for data persistence
+* Applies SHA-256 hashing for password security
+* Structured using an MVC-inspired design
 
 ---
-Project Structure
 
-```text
+## Project Structure
+
+```
 learnify/
 │── gui/
 │── models/
@@ -60,3 +49,9 @@ learnify/
 │── utilities/
 │── database/
 │── main/
+```
+
+---
+
+This project was created to practice Java GUI development, apply OOP concepts in a real application, and build a functional academic management system.
+
